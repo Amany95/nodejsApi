@@ -1,0 +1,24 @@
+======================== Login=======================
+Post        /login
+
+
+======================== Log Out=======================
+Post        /logOut
+
+
+
+======================== get all tasks=======================
+get           task/getAll
+
+
+//================== add task ===========================//
+post           task/addTask      title = description = status = created_at =group
+
+======================== get task by id=======================
+get           task/:id
+
+//================== update Task by id ===========================//
+put             task/:id         title = description = status = created_at = group;
+======================== delete task =======================
+delete        task/:id
+
