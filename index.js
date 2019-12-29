@@ -20,10 +20,8 @@ app.use(cors())
 app.use(userRouter);
 app.use('/task', taskRouter);
 
+const port=process.env.port || 8008;
+app.listen(port,()=>{
+    console.log(`server is running on port ${port}`)
+})
 
-
-app.listen(8008, function () {
-    console.log("Express server listening on port 8008");
-  
-  
-  });
