@@ -7,9 +7,9 @@ module.exports = {
    // __MYSQL_DB_PASS__: "",
      /* Database Credentials */
       __MYSQL_DB_HOST__: "127.0.0.1",
-      __MYSQL_DB_NAME__: "expocart_expo_cartoon_website",
-      __MYSQL_DB_USER__: "expocart_website",
-      __MYSQL_DB_PASS__: "&z]]hT2VX!Yu",
+      __MYSQL_DB_NAME__: "w9JLxdja81",
+      __MYSQL_DB_USER__: "w9JLxdja81",
+      __MYSQL_DB_PASS__: "0fdEoXYJfH",
 
 	/* Memcached Credentials */
     // __MEMCACHED_HOST__: '127.0.0.1:3306',
