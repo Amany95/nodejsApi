@@ -20,7 +20,7 @@ app.use(cors())
 app.use(userRouter);
 app.use('/task', taskRouter);
 
-const port=process.env.port || 8008;
+const port=process.env.PORT || 3001;
 app.listen(port,()=>{
     console.log(`server is running on port ${port}`)
 })
