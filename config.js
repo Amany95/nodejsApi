@@ -11,10 +11,10 @@ module.exports = {
    //   __MYSQL_DB_USER__: "w9JLxdja81",
     //  __MYSQL_DB_PASS__: "0fdEoXYJfH",
 	
-      __MYSQL_DB_HOST__: "127.0.0.1",
-      __MYSQL_DB_NAME__: "expocart_expo_cartoon_website",
-      __MYSQL_DB_USER__: "expocart_website",
-      __MYSQL_DB_PASS__: "&z]]hT2VX!Yu",
+      __MYSQL_DB_HOST__: "eu-cdbr-west-02.cleardb.net",
+      __MYSQL_DB_NAME__: "heroku_08edb22821f1744",
+      __MYSQL_DB_USER__: "bd5f049f247a6b",
+      __MYSQL_DB_PASS__: "1982b7fc",
 
 	/* Memcached Credentials */
     // __MEMCACHED_HOST__: '127.0.0.1:3306',
